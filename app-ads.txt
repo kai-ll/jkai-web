@@ -1,5 +1,6 @@
 google.com, pub-4108036316139670, DIRECT, f08c47fec0942fa0
 facebook.com, 1406753347784271, DIRECT, c3e20eee3f780d68
+pangleglobal.com, 5037082, DIRECT
 adagio.io, 1522, RESELLER
 adagio.io, 1575, RESELLER
 admanmedia.com, 2242, RESELLER
@@ -147,3 +148,4 @@ xandr.com, 15840, RESELLER
 xandr.com, 17779, RESELLER
 zetaglobal.net, 630, RESELLER
 zmaticoo.com, 5135195, RESELLER
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
