@@ -35,6 +35,11 @@
         <key>BlacklistedURLs</key>
         <array>
 <string>novelpia.com</string>
+<string>youtube.com</string>
+<string>youtu.be</string>
+<string>youtube.googleapis.com</string>
+<string>novelpia.com</string>
+<string>novelpia.com</string>
 <string>comic.naver.com</string>
 <string>series.naver.com</string>
 <string>m.series.naver.com</string>
