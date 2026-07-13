@@ -34,6 +34,8 @@
         <string>38e1c374-aa0d-48e4-b78e-0f77414ba559</string>
         <key>BlacklistedURLs</key>
         <array>
+<string>blacktoonurl2.com</string>
+<string>blacktoonurl3.com</string>
 <string>novelpia.com</string>
 <string>youtube.com</string>
 <string>youtu.be</string>
