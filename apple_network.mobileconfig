@@ -36,6 +36,9 @@
         <string>38e1c374-aa0d-48e4-b78e-0f77414ba559</string>
         <key>BlacklistedURLs</key>
         <array>
+<string>nextdns.io</string>
+<string>my.nextdns.io</string>
+<string>apple.nextdns.io</string>
 <string>hitomi.la</string>
 <string>sepay.org</string>
 <string>page.kakao.com</string>
