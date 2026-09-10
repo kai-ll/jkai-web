@@ -36,6 +36,7 @@
         <string>38e1c374-aa0d-48e4-b78e-0f77414ba559</string>
         <key>BlacklistedURLs</key>
         <array>
+<string>legendstudy.com</string>
 <string>horaeng.com</string>
 <string>nextdns.io</string>
 <string>my.nextdns.io</string>
