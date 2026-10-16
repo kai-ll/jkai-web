@@ -37,6 +37,7 @@
         <key>BlacklistedURLs</key>
         <array>
 <string>play.kakao.com</string>
+<string>vst.play.kakao.com</string>
 <string>shortformstats.kakao.com</string>
 <string>legendstudy.com</string>
 <string>horaeng.com</string>
